@@ -6,5 +6,3 @@ Maple-Swarm: Simple Firefighter Plan https://youtu.be/-KlbmMwm0bY
 Maple-Swarm: Creating the Firefighter Plan https://youtu.be/1caigf9RcKk
 Maple-Swarm: Executing the Firefighter Plan https://youtu.be/gcLcutP8EME
 
-Application and Examples (for plan execution, you need to have MiniZinc https://www.minizinc.org/ installed):
-https://megastore.uni-augsburg.de/get/g3KajjU3h9/
